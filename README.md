@@ -1,0 +1,2 @@
+# Scripting-Sensei
+Learning JavaScript
