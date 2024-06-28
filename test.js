@@ -9,7 +9,7 @@
 // // make the image visible
 
 var youLikeMe = true;
-var myNum = 11
+var myNum = 10
 
 if (youLikeMe){
 
