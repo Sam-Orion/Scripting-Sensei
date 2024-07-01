@@ -18,7 +18,7 @@ console.log(a*b);
 
 // To check if user enters valid data in a form field
 
-if (!isNaN(a)){
+if (!isNaN(a)){ //double negative
 
     console.log("that int even a number");
 
